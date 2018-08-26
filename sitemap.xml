@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.51hpz.com/404.html</loc>
+    
+    <lastmod>2018-08-26T10:13:23.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.51hpz.com/search/index.html</loc>
+    
+    <lastmod>2018-08-26T10:08:50.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.51hpz.com/2018/08/25/data/</loc>
     
     <lastmod>2018-08-26T06:57:24.000Z</lastmod>
@@ -16,14 +30,14 @@
   </url>
   
   <url>
-    <loc>http://blog.51hpz.com/2018/08/23/mywiki/</loc>
+    <loc>http://blog.51hpz.com/2018/08/23/hello-world/</loc>
     
     <lastmod>2018-08-23T05:41:00.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.51hpz.com/2018/08/23/hello-world/</loc>
+    <loc>http://blog.51hpz.com/2018/08/23/mywiki/</loc>
     
     <lastmod>2018-08-23T05:41:00.000Z</lastmod>
     

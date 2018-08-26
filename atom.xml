@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>MINFIVE</title>
+  <title>程序猿的脑洞</title>
   
-  <subtitle>MINFIVE BLOG</subtitle>
+  <subtitle>脑洞大开</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.51hpz.com/"/>
