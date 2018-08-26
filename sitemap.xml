@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.51hpz.com/2018/08/26/helloworld/</loc>
+    
+    <lastmod>2018-08-26T14:09:43.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.51hpz.com/about/index.html</loc>
     
     <lastmod>2018-08-26T10:36:48.000Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://blog.51hpz.com/search/index.html</loc>
     
     <lastmod>2018-08-26T10:08:50.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.51hpz.com/2018/08/23/hello-world/</loc>
-    
-    <lastmod>2018-08-23T05:41:00.000Z</lastmod>
     
   </url>
   
