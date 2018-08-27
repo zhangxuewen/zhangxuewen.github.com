@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.51hpz.com/"/>
-  <updated>2018-08-26T14:09:43.000Z</updated>
+  <updated>2018-08-27T14:41:54.000Z</updated>
   <id>http://blog.51hpz.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>gittest</title>
+    <link href="http://blog.51hpz.com/2018/08/27/gittest/"/>
+    <id>http://blog.51hpz.com/2018/08/27/gittest/</id>
+    <published>2018-08-27T14:40:55.000Z</published>
+    <updated>2018-08-27T14:41:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>git 分享</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;git 分享&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="技术积累" scheme="http://blog.51hpz.com/categories/%E6%8A%80%E6%9C%AF%E7%A7%AF%E7%B4%AF/"/>
+    
+    
+      <category term="git" scheme="http://blog.51hpz.com/tags/git/"/>
+    
+  </entry>
   
   <entry>
     <title>hello hexo</title>
