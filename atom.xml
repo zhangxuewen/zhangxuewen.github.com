@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.51hpz.com/"/>
-  <updated>2018-09-09T14:11:07.000Z</updated>
+  <updated>2018-09-15T15:08:09.000Z</updated>
   <id>http://blog.51hpz.com/</id>
   
   <author>
@@ -17,13 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>程序员的开发角色对比</title>
+    <link href="http://blog.51hpz.com/2018/09/15/developmentrole/"/>
+    <id>http://blog.51hpz.com/2018/09/15/developmentrole/</id>
+    <published>2018-09-15T15:06:38.000Z</published>
+    <updated>2018-09-15T15:08:09.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="产品" scheme="http://blog.51hpz.com/categories/%E4%BA%A7%E5%93%81/"/>
+    
+    
+      <category term="日常" scheme="http://blog.51hpz.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>关于git的那点事</title>
     <link href="http://blog.51hpz.com/2018/08/27/gittest/"/>
     <id>http://blog.51hpz.com/2018/08/27/gittest/</id>
     <published>2018-08-27T14:40:55.000Z</published>
-    <updated>2018-09-09T14:11:07.000Z</updated>
+    <updated>2018-09-15T14:56:14.000Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>简介</li></ul><p>git是目前世界上最先进的分布式版本控制系统（没有之一）,他的兄弟是svn慢慢在被淘汰。</p><ul><li>优点</li></ul><p>支持多分支同时开发</p>]]></content>
+    <content type="html"><![CDATA[<ul><li>简介</li></ul><p>git是目前世界上最先进的分布式版本控制系统（没有之一）,他的兄弟是svn慢慢在被淘汰。</p><ul><li>优点</li></ul><p>1、适合分布式开发，强调个体；</p><p>2、公共的服务器压力和数量都不会太大；</p><p>3、速度快， 成熟的架构，开发灵活；</p><p>4、任意两个开发者之间可以很容易的解决冲突；</p><p>5、离线工作，管理代码成本低，不需要依赖服务器；</p><p>6、部署方便。基本上下个命令就可以用；</p><p>7、良好的分支机制，可以让主干代码保持干净。</p><ul><li>git的版本管理方式</li></ul>]]></content>
     
     <summary type="html">
     
@@ -36,8 +54,8 @@
 &lt;ul&gt;
 &lt;li&gt;优点&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;支持多分支同时开发&lt;/p&gt;
-
+&lt;p&gt;1、适合分布式开发，强调个体；&lt;/p&gt;
+&lt;p&gt;2、公共的服务器压力和数量都不会
       
     
     </summary>
@@ -54,7 +72,7 @@
     <link href="http://blog.51hpz.com/2018/08/26/helloworld/"/>
     <id>http://blog.51hpz.com/2018/08/26/helloworld/</id>
     <published>2018-08-26T14:02:48.000Z</published>
-    <updated>2018-09-09T14:06:10.000Z</updated>
+    <updated>2018-09-15T14:56:28.000Z</updated>
     
     <content type="html"><![CDATA[<p>今天用了一点的时间把博客从jekyll迁移到了hexo，主要是因为感觉hexo的生态更好，而且写作起来更舒服，方便。</p><ul><li>环境准备</li></ul><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">安装Git、Node.js以及npm工具</span><br><span class="line"></span><br><span class="line">brew install git</span><br><span class="line"></span><br><span class="line">bew install node</span><br><span class="line"></span><br><span class="line">#查看是否安装成功</span><br><span class="line"></span><br><span class="line">node -v</span><br><span class="line"></span><br><span class="line">npm -v</span><br></pre></td></tr></table></figure><ul><li>安装Hexo并创建文件</li></ul><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo -g</span><br><span class="line"></span><br><span class="line">hexo init &lt;folder&gt;  #folder为你创建博客的文件夹名称</span><br><span class="line"></span><br><span class="line">cd &lt;folder&gt;</span><br></pre></td></tr></table></figure><p><strong> 同时用docsify构建了一个<a href="https://blog.51hpz.com/mywiki/#/">wiki</a>是用于记录我对某项技术的深入学习。 </strong></p>]]></content>
     
