@@ -35,6 +35,24 @@
   </entry>
   
   <entry>
+    <title>分布式的那些事</title>
+    <link href="http://blog.51hpz.com/2018/09/15/distribute/"/>
+    <id>http://blog.51hpz.com/2018/09/15/distribute/</id>
+    <published>2018-09-15T14:58:55.000Z</published>
+    <updated>2018-09-15T15:08:59.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="布式" scheme="http://blog.51hpz.com/categories/%E5%B8%83%E5%BC%8F/"/>
+    
+    
+      <category term="分布式" scheme="http://blog.51hpz.com/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>关于git的那点事</title>
     <link href="http://blog.51hpz.com/2018/08/27/gittest/"/>
     <id>http://blog.51hpz.com/2018/08/27/gittest/</id>
